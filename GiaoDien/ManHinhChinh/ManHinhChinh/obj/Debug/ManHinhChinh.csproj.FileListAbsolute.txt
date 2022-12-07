@@ -1,0 +1,13 @@
+D:\CacHK\DaiHoc\Nam4\PhanTichThietKe\CuoiKy\GiaoDien\ManHinhChinh\ManHinhChinh\bin\Debug\ManHinhChinh.exe.config
+D:\CacHK\DaiHoc\Nam4\PhanTichThietKe\CuoiKy\GiaoDien\ManHinhChinh\ManHinhChinh\bin\Debug\ManHinhChinh.exe
+D:\CacHK\DaiHoc\Nam4\PhanTichThietKe\CuoiKy\GiaoDien\ManHinhChinh\ManHinhChinh\bin\Debug\ManHinhChinh.pdb
+D:\CacHK\DaiHoc\Nam4\PhanTichThietKe\CuoiKy\GiaoDien\ManHinhChinh\ManHinhChinh\obj\Debug\ManHinhChinh.csproj.AssemblyReference.cache
+D:\CacHK\DaiHoc\Nam4\PhanTichThietKe\CuoiKy\GiaoDien\ManHinhChinh\ManHinhChinh\obj\Debug\ManHinhChinh.QuanLyPhongTro.resources
+D:\CacHK\DaiHoc\Nam4\PhanTichThietKe\CuoiKy\GiaoDien\ManHinhChinh\ManHinhChinh\obj\Debug\ManHinhChinh.Properties.Resources.resources
+D:\CacHK\DaiHoc\Nam4\PhanTichThietKe\CuoiKy\GiaoDien\ManHinhChinh\ManHinhChinh\obj\Debug\ManHinhChinh.csproj.GenerateResource.cache
+D:\CacHK\DaiHoc\Nam4\PhanTichThietKe\CuoiKy\GiaoDien\ManHinhChinh\ManHinhChinh\obj\Debug\ManHinhChinh.csproj.CoreCompileInputs.cache
+D:\CacHK\DaiHoc\Nam4\PhanTichThietKe\CuoiKy\GiaoDien\ManHinhChinh\ManHinhChinh\obj\Debug\ManHinhChinh.exe
+D:\CacHK\DaiHoc\Nam4\PhanTichThietKe\CuoiKy\GiaoDien\ManHinhChinh\ManHinhChinh\obj\Debug\ManHinhChinh.pdb
+D:\CacHK\DaiHoc\Nam4\PhanTichThietKe\CuoiKy\GiaoDien\ManHinhChinh\ManHinhChinh\obj\Debug\ManHinhChinh.DanhSachKT.resources
+D:\CacHK\DaiHoc\Nam4\PhanTichThietKe\CuoiKy\GiaoDien\ManHinhChinh\ManHinhChinh\obj\Debug\ManHinhChinh.DanhSachPhong.resources
+D:\CacHK\DaiHoc\Nam4\PhanTichThietKe\CuoiKy\GiaoDien\ManHinhChinh\ManHinhChinh\obj\Debug\ManHinhChinh.HoaDonPhong.resources
